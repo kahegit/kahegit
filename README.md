@@ -14,12 +14,9 @@ Here are some images and links to repositories that I have worked on.
 [link to repo](https://github.com/kahegit/group_6)  
 Made by: Me, [Aatu](https://github.com/A2Pupsa), [Tuukka](https://github.com/Farmapu), [Markus](https://github.com/MaKe141)  
 
-<img width="400" alt="Map" src="https://github.com/user-attachments/assets/79ec5bd3-0902-4c16-862d-4a72224a33c6" /><br>
-World generation created using tilemap chunks  
-  
-<img width="400" alt="Map" src="https://github.com/user-attachments/assets/b9ec8c43-f5b2-461e-bba2-a1da79876058" /><br>
-Resource gathering  
-
+World generation             |  Resource gathering
+:-------------------------:|:-------------------------:
+<img width="400" alt="Map" src="https://github.com/user-attachments/assets/79ec5bd3-0902-4c16-862d-4a72224a33c6" />  |  <img width="400" alt="Map" src="https://github.com/user-attachments/assets/b9ec8c43-f5b2-461e-bba2-a1da79876058" />
 
 <!--
 **kahegit/kahegit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
